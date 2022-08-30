@@ -1,10 +1,10 @@
-title: "New Blog"
+title: "Autumn's R-Basic Blog"
 author: "Autumn Locklear"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Just a place where I can generate blogs for my R-programming course." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-#email: "example@mail.com"
+email: "alockle7@ncsu.edu"
 #twitter_username: "twitteruser"
 #github_username: "githubuser"
 #linkedin_username: "linkedinuser"
@@ -40,3 +40,18 @@ defaults:
       type: post
     values:
       tags: Other
+
+I think that the difference between data science and statistics is in the tools, 
+the technique, and how easily their results can be interpreted by the general public. 
+Data science requires the use of some programming language to manipulate massive data 
+sets. Whereas statistical methods can be practiced by hand. An R script or SAS code can 
+appear cryptic to a trained statistician with no experience in programming. Also, the 
+products of data science are more easily digestible to the public. Anyone can look at 
+a map developed in Tableau and derive some meaning from it, even if they have no training 
+in data science nor statistics. On the other hand, statistics requires some knowledge of 
+concepts like z-scores, t-statistics, and QQ-plots in order to read a white paper and 
+interpret the results.
+
+I personally lean more towards data science because I prefer the simplicity and 
+sophistication of programming languages over the "nebulous" concpets related to
+statistics.
